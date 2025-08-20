@@ -18213,4 +18213,11 @@
     "description": "Collect related notes based on links/backlinks to provide focused context for external AI chatbots. Explore note relationships visually and export the bundle.",
     "repo": "shuxueshuxue/PackUp4AI"
   }
-]
+],
+{
+  "id": "astro-composer",
+  "name": "Astro Composer",
+  "author": "David V. Kimball",
+  "description": "A companion plugin for Astro blogging workflows. Helps create and manage blog posts with frontmatter and converts wikilinks.",
+  "repo": "davidvkimball/obsidian-astro-composer"
+}
