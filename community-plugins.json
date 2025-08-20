@@ -18213,4 +18213,11 @@
     "description": "Collect related notes based on links/backlinks to provide focused context for external AI chatbots. Explore note relationships visually and export the bundle.",
     "repo": "shuxueshuxue/PackUp4AI"
   }
-]
+],
+{
+  "id": "disable-tabs",
+  "name": "Disable Tabs",
+  "author": "David V. Kimball",
+  "description": "Disables multiple tabs in Obsidian.",
+  "repo": "davidvkimball/obsidian-disable-tabs"
+}
